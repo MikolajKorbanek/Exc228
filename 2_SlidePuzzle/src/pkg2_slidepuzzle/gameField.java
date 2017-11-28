@@ -45,7 +45,6 @@ public class gameField extends JPanel implements MouseListener{
             do{
                 String nameIn = puzzlePart[j].getText();
                 if(nameIn.equals(""+value)){
-                    System.err.println("DZIAŁ "+i+"  "+j+"\t"+value);
                     value = generator.nextInt(15)+1;
                     j=-1;
                 }
