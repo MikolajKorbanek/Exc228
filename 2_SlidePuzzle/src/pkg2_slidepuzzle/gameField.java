@@ -1,24 +1,22 @@
 package pkg2_slidepuzzle;
 
 import java.awt.Color;
-import java.awt.Component;
-import java.awt.Cursor;
 import java.awt.GridLayout;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+import java.util.Random;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
 public class gameField extends JPanel implements MouseListener{
     
-    JLabel[] puzzlePart = new JLabel[16];
+    static JLabel[] puzzlePart = new JLabel[16];
     
     public gameField(){
         setLayout(new GridLayout(4,4,5,5));
         for(int i=0;i<16;i++){
-            if(i == 0 )puzzlePart[i] = new JLabel(" ");
-            else puzzlePart[i] = new JLabel(""+i);
+            puzzlePart[i] = new JLabel(" ");
             puzzlePart[i].setName(""+(i+1));
             puzzlePart[i].setHorizontalAlignment(SwingConstants.CENTER);
             puzzlePart[i].setVerticalAlignment(SwingConstants.CENTER);
@@ -31,8 +29,32 @@ public class gameField extends JPanel implements MouseListener{
         
     }
     
+    private static void CLEAR(){
+        for(int i=0;i<16;i++){
+            puzzlePart[i].setText(" ");
+        }
+    }
+    
     public static void RANDOM(){
-        
+        CLEAR();
+        Random generator = new Random();
+        for(int i = 0; i<15;i++){
+            String name = puzzlePart[i].getText();
+            int value = generator.nextInt(15)+1;
+            int j = 0;
+            do{
+                String nameIn = puzzlePart[j].getText();
+                if(nameIn.equals(""+value)){
+                    System.err.println("DZIAŁ "+i+"  "+j+"\t"+value);
+                    value = generator.nextInt(15)+1;
+                    j=-1;
+                }
+                j++;
+            }while(j<16);      
+            if(name.equals(" ")){
+                puzzlePart[i].setText(value+"");
+            }
+        }
     }
     public int isMovePossible(String nameOfPuzzle){
         int position = Integer.parseInt(nameOfPuzzle);
