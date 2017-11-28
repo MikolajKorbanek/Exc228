@@ -14,6 +14,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
@@ -45,7 +46,7 @@ public class Main extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e) {
                 TEXT_TO_SEARCH = textToFind.getText();
-                System.out.println(""+countNumberOfsearchText());
+                INFO_BOX(countNumberOfsearchText()+" Time/s.","NUMBER");
             }
         });
         add(textToFind);
@@ -92,4 +93,9 @@ public class Main extends JFrame{
             }
       } 
     }
+     public static void INFO_BOX(String infoMessage, String titleBar)
+    {
+        JOptionPane.showMessageDialog(null, infoMessage, "InfoBox: " + titleBar, JOptionPane.WARNING_MESSAGE);
+    }
+    
 }
