@@ -1,0 +1,11 @@
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\bin\Debug\netcoreapp2.0\1_UnitConverter_CSharp.deps.json
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\bin\Debug\netcoreapp2.0\1_UnitConverter_CSharp.runtimeconfig.json
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\bin\Debug\netcoreapp2.0\1_UnitConverter_CSharp.runtimeconfig.dev.json
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\bin\Debug\netcoreapp2.0\1_UnitConverter_CSharp.dll
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\bin\Debug\netcoreapp2.0\1_UnitConverter_CSharp.pdb
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\obj\Debug\netcoreapp2.0\1_UnitConverter_CSharp.csprojResolveAssemblyReference.cache
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\obj\Debug\netcoreapp2.0\1_UnitConverter_CSharp.csproj.CoreCompileInputs.cache
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\obj\Debug\netcoreapp2.0\1_UnitConverter_CSharp.AssemblyInfoInputs.cache
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\obj\Debug\netcoreapp2.0\1_UnitConverter_CSharp.AssemblyInfo.cs
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\obj\Debug\netcoreapp2.0\1_UnitConverter_CSharp.dll
+F:\Programowanie\CSharp\1_UnitConverter_CSharp\1_UnitConverter_CSharp\obj\Debug\netcoreapp2.0\1_UnitConverter_CSharp.pdb
