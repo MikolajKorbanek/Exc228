@@ -1,0 +1,7 @@
+F:\Programowanie\CSharp\6_BMICalculator_CSharp\6_BMICalculator_CSharp\bin\Debug\6_BMICalculator_CSharp.exe.config
+F:\Programowanie\CSharp\6_BMICalculator_CSharp\6_BMICalculator_CSharp\bin\Debug\6_BMICalculator_CSharp.exe
+F:\Programowanie\CSharp\6_BMICalculator_CSharp\6_BMICalculator_CSharp\bin\Debug\6_BMICalculator_CSharp.pdb
+F:\Programowanie\CSharp\6_BMICalculator_CSharp\6_BMICalculator_CSharp\obj\Debug\6_BMICalculator_CSharp.csprojResolveAssemblyReference.cache
+F:\Programowanie\CSharp\6_BMICalculator_CSharp\6_BMICalculator_CSharp\obj\Debug\6_BMICalculator_CSharp.csproj.CoreCompileInputs.cache
+F:\Programowanie\CSharp\6_BMICalculator_CSharp\6_BMICalculator_CSharp\obj\Debug\6_BMICalculator_CSharp.exe
+F:\Programowanie\CSharp\6_BMICalculator_CSharp\6_BMICalculator_CSharp\obj\Debug\6_BMICalculator_CSharp.pdb
