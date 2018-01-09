@@ -1,0 +1,7 @@
+C:\Users\mixer\source\repos\21_Palindrome_Checker\21_Palindrome_Checker\bin\Debug\21_Palindrome_Checker.exe.config
+C:\Users\mixer\source\repos\21_Palindrome_Checker\21_Palindrome_Checker\bin\Debug\21_Palindrome_Checker.exe
+C:\Users\mixer\source\repos\21_Palindrome_Checker\21_Palindrome_Checker\bin\Debug\21_Palindrome_Checker.pdb
+C:\Users\mixer\source\repos\21_Palindrome_Checker\21_Palindrome_Checker\obj\Debug\21_Palindrome_Checker.csprojResolveAssemblyReference.cache
+C:\Users\mixer\source\repos\21_Palindrome_Checker\21_Palindrome_Checker\obj\Debug\21_Palindrome_Checker.csproj.CoreCompileInputs.cache
+C:\Users\mixer\source\repos\21_Palindrome_Checker\21_Palindrome_Checker\obj\Debug\21_Palindrome_Checker.exe
+C:\Users\mixer\source\repos\21_Palindrome_Checker\21_Palindrome_Checker\obj\Debug\21_Palindrome_Checker.pdb
