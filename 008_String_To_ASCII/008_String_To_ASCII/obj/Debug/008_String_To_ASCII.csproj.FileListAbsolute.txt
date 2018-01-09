@@ -1,0 +1,7 @@
+F:\Programowanie\CSharp\008_String_To_ASCII\008_String_To_ASCII\bin\Debug\008_String_To_ASCII.exe.config
+F:\Programowanie\CSharp\008_String_To_ASCII\008_String_To_ASCII\bin\Debug\008_String_To_ASCII.exe
+F:\Programowanie\CSharp\008_String_To_ASCII\008_String_To_ASCII\bin\Debug\008_String_To_ASCII.pdb
+F:\Programowanie\CSharp\008_String_To_ASCII\008_String_To_ASCII\obj\Debug\008_String_To_ASCII.csprojResolveAssemblyReference.cache
+F:\Programowanie\CSharp\008_String_To_ASCII\008_String_To_ASCII\obj\Debug\008_String_To_ASCII.csproj.CoreCompileInputs.cache
+F:\Programowanie\CSharp\008_String_To_ASCII\008_String_To_ASCII\obj\Debug\008_String_To_ASCII.exe
+F:\Programowanie\CSharp\008_String_To_ASCII\008_String_To_ASCII\obj\Debug\008_String_To_ASCII.pdb
