@@ -1,0 +1,7 @@
+F:\Programowanie\CSharp\22_Factorial\22_Factorial\bin\Debug\22_Factorial.exe.config
+F:\Programowanie\CSharp\22_Factorial\22_Factorial\bin\Debug\22_Factorial.exe
+F:\Programowanie\CSharp\22_Factorial\22_Factorial\bin\Debug\22_Factorial.pdb
+F:\Programowanie\CSharp\22_Factorial\22_Factorial\obj\Debug\22_Factorial.csprojResolveAssemblyReference.cache
+F:\Programowanie\CSharp\22_Factorial\22_Factorial\obj\Debug\22_Factorial.csproj.CoreCompileInputs.cache
+F:\Programowanie\CSharp\22_Factorial\22_Factorial\obj\Debug\22_Factorial.exe
+F:\Programowanie\CSharp\22_Factorial\22_Factorial\obj\Debug\22_Factorial.pdb
