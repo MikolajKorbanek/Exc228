@@ -1,0 +1,7 @@
+F:\Programowanie\CSharp\016_String_To_Morse\016_String_To_Morse\bin\Debug\016_String_To_Morse.exe.config
+F:\Programowanie\CSharp\016_String_To_Morse\016_String_To_Morse\bin\Debug\016_String_To_Morse.exe
+F:\Programowanie\CSharp\016_String_To_Morse\016_String_To_Morse\bin\Debug\016_String_To_Morse.pdb
+F:\Programowanie\CSharp\016_String_To_Morse\016_String_To_Morse\obj\Debug\016_String_To_Morse.csprojResolveAssemblyReference.cache
+F:\Programowanie\CSharp\016_String_To_Morse\016_String_To_Morse\obj\Debug\016_String_To_Morse.csproj.CoreCompileInputs.cache
+F:\Programowanie\CSharp\016_String_To_Morse\016_String_To_Morse\obj\Debug\016_String_To_Morse.exe
+F:\Programowanie\CSharp\016_String_To_Morse\016_String_To_Morse\obj\Debug\016_String_To_Morse.pdb
