@@ -1,0 +1,7 @@
+F:\Programowanie\CSharp\055_Rock_Paper_andSoOn\055_Rock_Paper_andSoOn\obj\Debug\055_Rock_Paper_andSoOn.csprojResolveAssemblyReference.cache
+F:\Programowanie\CSharp\055_Rock_Paper_andSoOn\055_Rock_Paper_andSoOn\obj\Debug\055_Rock_Paper_andSoOn.csproj.CoreCompileInputs.cache
+F:\Programowanie\CSharp\055_Rock_Paper_andSoOn\055_Rock_Paper_andSoOn\bin\Debug\055_Rock_Paper_andSoOn.exe.config
+F:\Programowanie\CSharp\055_Rock_Paper_andSoOn\055_Rock_Paper_andSoOn\bin\Debug\055_Rock_Paper_andSoOn.exe
+F:\Programowanie\CSharp\055_Rock_Paper_andSoOn\055_Rock_Paper_andSoOn\bin\Debug\055_Rock_Paper_andSoOn.pdb
+F:\Programowanie\CSharp\055_Rock_Paper_andSoOn\055_Rock_Paper_andSoOn\obj\Debug\055_Rock_Paper_andSoOn.exe
+F:\Programowanie\CSharp\055_Rock_Paper_andSoOn\055_Rock_Paper_andSoOn\obj\Debug\055_Rock_Paper_andSoOn.pdb
