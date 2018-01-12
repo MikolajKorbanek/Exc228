@@ -1,0 +1,7 @@
+F:\Programowanie\CSharp\013_Tic_Tac_Toe\013_Tic_Tac_Toe\obj\Debug\013_Tic_Tac_Toe.csprojResolveAssemblyReference.cache
+F:\Programowanie\CSharp\013_Tic_Tac_Toe\013_Tic_Tac_Toe\obj\Debug\013_Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+F:\Programowanie\CSharp\013_Tic_Tac_Toe\013_Tic_Tac_Toe\bin\Debug\013_Tic_Tac_Toe.exe.config
+F:\Programowanie\CSharp\013_Tic_Tac_Toe\013_Tic_Tac_Toe\bin\Debug\013_Tic_Tac_Toe.exe
+F:\Programowanie\CSharp\013_Tic_Tac_Toe\013_Tic_Tac_Toe\bin\Debug\013_Tic_Tac_Toe.pdb
+F:\Programowanie\CSharp\013_Tic_Tac_Toe\013_Tic_Tac_Toe\obj\Debug\013_Tic_Tac_Toe.exe
+F:\Programowanie\CSharp\013_Tic_Tac_Toe\013_Tic_Tac_Toe\obj\Debug\013_Tic_Tac_Toe.pdb
